@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "628302735445",
+    "project_id": "zapzapp-00",
+    "storage_bucket": "zapzapp-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628302735445:android:c14967eeb4926318cd4cdc",
+        "android_client_info": {
+          "package_name": "com.mycompany.zapzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628302735445-6ijrfnmrudpmjoqjbt2haavh6rl2et4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.zapzapp",
+            "certificate_hash": "d4c0fbce279504ae6c41baa56a20bbe65a22b172"
+          }
+        },
+        {
+          "client_id": "628302735445-9dher7mqit8pnhv5d96qmcl3sm113l5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.zapzapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrHrkd6RqDOq_6Hcq-GfO0Lj-BvKTlQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628302735445-aks7qlq3kudtqair25v3qkd1k3282qkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.zapzappAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628302735445:android:7f94349c28e91e0fcd4cdc",
+        "android_client_info": {
+          "package_name": "com.mycompany.zapzapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628302735445-s33hs99hutc9qk8bant1nvd28edhsrn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.zapzapp1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrHrkd6RqDOq_6Hcq-GfO0Lj-BvKTlQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628302735445-aks7qlq3kudtqair25v3qkd1k3282qkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.zapzappAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628302735445:android:7f77b437aef4e32bcd4cdc",
+        "android_client_info": {
+          "package_name": "com.mycompany.zapzappAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628302735445-mul92fq3v3us6apgjuv68bmgja3docl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.zapzappAdmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "628302735445-snprlmajj4n4l00ff1oiq3rkniufl0ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.zapzappAdmin",
+            "certificate_hash": "d4c0fbce279504ae6c41baa56a20bbe65a22b172"
+          }
+        },
+        {
+          "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARrHrkd6RqDOq_6Hcq-GfO0Lj-BvKTlQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628302735445-eer8un7te7mk21arpd813n1fsjif912o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628302735445-aks7qlq3kudtqair25v3qkd1k3282qkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.zapzappAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

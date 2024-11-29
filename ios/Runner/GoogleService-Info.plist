@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>628302735445-aks7qlq3kudtqair25v3qkd1k3282qkp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.628302735445-aks7qlq3kudtqair25v3qkd1k3282qkp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>628302735445-6ijrfnmrudpmjoqjbt2haavh6rl2et4u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDF9HY7L9puCWtWkN8u2KAC4m_ccO5dAic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628302735445</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.zapzappAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>zapzapp-00</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zapzapp-00.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628302735445:ios:80479b930120a7b1cd4cdc</string>
+</dict>
+</plist>
